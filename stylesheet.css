@@ -1,23 +1,4 @@
-.elm {
-	/*Firefox*/
--moz-calc(expression);
-	/*chrome safari*/
--webkit-calc(expression);
-	/*Standard */
-calc();
-}
-body {
-	/*background-color: #FFDAB9;	*/
-	background-color: #000;
-	-webkit-transition:background-color linear 5s;
-	-moz-transition:background-color linear 5s;
-	-o-transition:background-color linear 5s;
-	-ms-transition:background-color linear 5s;
-	transition:background-color linear 5s;
-	overflow-x:hidden;
-	width: 100vw;
 
-}
 .container {
 	display: none;
 }
